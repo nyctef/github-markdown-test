@@ -27,3 +27,5 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 
 
 and [this is a link to it](#another-header-anchor)
+
+but actually we need to prepend `user-content-` to the anchor name: [here](#user-content-another-header-anchor)
